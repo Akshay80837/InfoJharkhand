@@ -9,7 +9,7 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <h1 >About Us</h1>
+    <h1 >About Info jharkhand</h1>
     
 </body>
 </html>

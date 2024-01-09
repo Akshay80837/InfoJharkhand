@@ -9,7 +9,10 @@
     <script src='main.js'></script>
 </head>
 <body>
-    <h1 >About Us</h1>
+    <h1>wellcom in this site Info Jharkhand</h1>
+    <section>
+        <nav> it service and solution </nav>
+    </section>
     
 </body>
 </html>
